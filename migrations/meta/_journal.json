@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711130832403,
+      "tag": "0000_wakeful_hairball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1711132277928,
+      "tag": "0001_colorful_starjammers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711134781113,
+      "tag": "0002_early_vertigo",
+      "breakpoints": true
+    }
+  ]
+}
